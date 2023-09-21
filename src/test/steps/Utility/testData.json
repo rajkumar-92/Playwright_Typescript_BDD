@@ -1,0 +1,42 @@
+{
+    "siteurl": "https://tuiretail-be-dev.tuiad.net/retail/flight/",
+    "username": "auto.test2@tui.co.uk",
+    "password": "Password2",
+
+    "departPort": "BRU",
+    "arrivalPort": "LPA",
+    "departDate": ["2023-08", "5"],
+    "arrivalDate": ["2023-09", "15"],
+    "adults": 1, "children": 2, 
+    "childAge": [4, 0],
+
+     "OutboundBaggage":["25 kg","20 kg"],
+     "ReturnBaggage":["25 kg","25 kg"],
+
+    "insuranceOption": "Combi cancellation insurance + travel assistance insurance",
+    "insuranceOption1": "Combi annuleringsverzekering + reis-en bijstandsverzekering",
+
+    "adultFirstName": "Rajkumar",
+    "adultSurName": "Masadapu",
+    "adultGender": "MALE",
+    "adultDOB": ["10", "8", "1992"],
+    "Nationality": "AF",
+    "Country": "AF",
+    "address_Street": "Street1A",
+    "houseNo": "101",
+    "postalCode": "9999",
+    "residency": "HY",
+    "mobileNo": ["+93","503592671"],
+    "email": "masadapu.rajkumar47@gmail.com",
+    "childFirstName": "Vanshika",
+    "childSurName": "Masadapu",
+    "childGender": "FEMALE",
+    "childDOB": ["15", "6", "2019"],
+    "infantFirstName": "Vamsee",
+    "infantSurName": "Masadapu",
+    "infantGender": "MALE",
+    "infantDOB": ["10", "2", "2023"],
+    "homekeeperLastName": "Masadapu",
+    "homekeeperNo": ["+93","503592671"]
+
+}
